@@ -1,0 +1,40 @@
+.card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    background-color: #f7f7f7;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .card-header h4 {
+    margin-bottom: 0;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .card-footer {
+    background-color: #f7f7f7;
+    padding: 10px 15px;
+    border-top: 1px solid #ccc;
+    text-align: right;
+  }
+  
+  .card-footer a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .card-footer a:hover {
+    color: #000;
+  }
+  
