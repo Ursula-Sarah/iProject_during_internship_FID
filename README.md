@@ -4,3 +4,4 @@ Ce projet est développé sous le langage PHP purement sans utilisation de frame
  -Le Système de gestion de bases de données utilisé: PhpMyAdmin ou MySQL intégré au sein du WampServer
  -L'interface ou le côté front-end a été développé avec Bootstrap, HTML, CSS et Javascript
 ///NOTA BENE: Installer ou utiliser WampServer pour lancer ce projet.
+![icons8-php-logo](https://github.com/Ursula-Sarah/iProject_during_internship_FID/assets/103580286/bf67bc46-786e-4d61-80ca-c587764c05e8)
